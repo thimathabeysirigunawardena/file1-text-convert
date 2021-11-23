@@ -1,0 +1,1 @@
+file1=int(input("this is text from file 2"))
